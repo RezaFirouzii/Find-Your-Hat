@@ -1,2 +1,1 @@
-Find Your Hat terminal game...
-A challenge project provided by codeacademy.com with js
+Try to find your hat('^') by using the URDL keys for terminal input.
